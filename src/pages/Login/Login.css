@@ -96,3 +96,11 @@
     margin-top: 30px;
   }
 }
+footer{
+  padding: 20px ;
+  max-width: 1000px;
+  margin: 0 auto;
+  margin-top: 10rem;
+  font-size: 14px;
+  color: rgb(158, 158, 158);
+}
