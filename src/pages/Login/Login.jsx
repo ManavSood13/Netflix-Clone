@@ -65,6 +65,7 @@ const Login = () => {
           }
         </div>
       </div>
+      <footer>This is a personal project. Not affiliated with Netflix™.</footer>
     </div>
   )
 }
